@@ -5,7 +5,7 @@ A desktop Sudoku application written in Java. This was a collaborative universit
 ## Features
 * **Graphical Interface:** Built with JavaFX, including difficulty selection and support for 2 languages
 * **Game Logic:** Board generation and puzzle solving using a backtracking algorithm.
-* **Save & Load:** The game state can be saved and loaded in two ways: to a local file or to a database using JDBC.
+* **Save & Load:** The game state can be saved to a database using JDBC and later loaded.
 * **Tested Code:** Core game logic and data saving mechanisms are covered by JUnit tests.
 
 <img width="362" height="300" alt="obraz" src="https://github.com/user-attachments/assets/5f1b9632-a13e-4ae2-946a-98b3e2032767" />
